@@ -1,6 +1,12 @@
 #ignore old notebooks and old data
 *old*
 
+#ignore pycharm files
+.idea/
+
+#ignore ipynb checkpoints
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
